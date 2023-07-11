@@ -24,7 +24,7 @@ It automatic tells interesting sub-domains that may be useful
 
 sudo https://github.com/Amishmishra20/SubDomainFinder.git
 
-cd subscannon/
+cd SubDomainFinder/
 
 sudo chmod +x setup.sh
 
